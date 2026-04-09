@@ -6,6 +6,6 @@ Hi everyone ! I'm a back-end developer specialized in web development. You can s
 
 ### Contact Me
 
-![Discord username](https://img.shields.io/discord/): dvnk3lheit
+![Discord](https://img.shields.io/discord/): dvnk3lheit
 
 ![Matrix](https://img.shields.io/matrix/:@dvnk3lh3it:matrix.org): @dvnk3lh3it:matrix.org
